@@ -1,0 +1,17 @@
+{
+  "name": "grunt-flyway",
+  "description": "Run Flyway database migration tool.",
+  "scripts": {
+    "test": "grunt info"
+  },
+  "devDependencies": {
+    "grunt-flyway": "~0.3.2",
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
