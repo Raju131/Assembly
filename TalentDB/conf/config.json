@@ -1,0 +1,5 @@
+{
+  "url":{
+    "dev": "jdbc:mysql://mysql.dev.talentscreen.io:3306"
+  }
+}
